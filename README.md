@@ -7,4 +7,4 @@
 2. [Export your Telegram History](https://telegram.org/blog/export-and-more) as json via the [Telegram Desktop Client](https://desktop.telegram.org/).
 3. Place the exported file 'result.json' in the notebooks folder.
 4. Open Jupyter Notebook by typing ```jupyter notebook``` into console. Open Telegraphs.ipynb and run all the cells.
-5. Install missing packages by typing ```pip install *package name*``` into console. For example ```plotly```, ```itertools``` and ```pandas```.
+5. Install missing packages by typing ```pip install *package name*``` into console. For example ```plotly``` and ```pandas```.
