@@ -19,5 +19,7 @@ dist/
 # Jupyter Files
 .ipynb_checkpoints
 
+# Others
+*.xcf
 
 
