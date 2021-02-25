@@ -8,3 +8,6 @@
 3. Place the exported file 'result.json' in the notebooks folder.
 4. Open Jupyter Notebook by typing ```jupyter notebook``` into console. Open Telegraphs.ipynb and run all the cells.
 5. Install missing packages by typing ```pip install *package name*``` into console. For example ```plotly``` and ```pandas```.
+
+## What Else?
+You haven't used Telegram a lot? Not a problem! There's a good chance, [you can import the data from your old messenger to Telegram](https://telegram.org/blog/move-history/). 
