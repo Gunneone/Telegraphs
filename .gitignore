@@ -15,6 +15,7 @@ dist/
 *.mp4
 *.jpg
 *.png
+chats/
 
 # Jupyter Files
 .ipynb_checkpoints
