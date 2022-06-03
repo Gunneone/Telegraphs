@@ -3,7 +3,7 @@
 ---
 
 ## To get started:
-1. Install Python and Jupyter Notebook. If you haven't installed any of these yet, I recommend [Anaconda](https://www.anaconda.com/products/individual).
+1. Install Python and Jupyter Notebook. If you haven't installed either of these yet, I recommend using [Anaconda](https://www.anaconda.com/products/individual).
 2. [Export your Telegram History](https://telegram.org/blog/export-and-more) as json via the [Telegram Desktop Client](https://desktop.telegram.org/).
 3. Place the exported file 'result.json' and the 'chats' folder in the 'notebooks' folder.
 4. Open Jupyter Notebook by typing ```jupyter notebook``` into console. Open Telegraphs.ipynb and run all the cells.
